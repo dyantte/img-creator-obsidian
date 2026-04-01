@@ -2,6 +2,9 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# Nested obsidian config (never should exist)
+.obsidian/.obsidian/
+
 # Plugin binaries (large, reinstall from Obsidian)
 .obsidian/plugins/*/main.js
 .obsidian/plugins/*/styles.css
