@@ -1,0 +1,12 @@
+# Obsidian workspace (changes every time you open a note — noisy)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin binaries (large, reinstall from Obsidian)
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
