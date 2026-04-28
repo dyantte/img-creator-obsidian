@@ -1,6 +1,6 @@
 # Observations
 
-Last regenerated: `2026-04-28 02:38` from **3** dislikes across **3** distinct observations via exact-text grouping.
+Last regenerated: `2026-04-28 02:43` from **3** dislikes across **3** distinct observations via exact-text grouping.
 
 Tag the **Status** column with `critic` (act on first), `defer` (maybe later), or `kill` (ignore). Annotations are preserved on re-rank when the theme name OR any constituent comment matches a previous row.
 
